@@ -1,0 +1,29 @@
+
+
+.fname{
+    width: 240px;
+     border-radius: 12px;
+ }
+.container{
+  position: absolute;
+top:30%;
+
+  background-image: url(https://th.bing.com/th/id/OIP.0MUJfL1fByZHR_lgxQ_7QgHaG7?pid=ImgDet&rs=1);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.input-text{
+  margin-left:auto;
+}
+.b-name{
+  margin-left: 205px;
+}
+.btn-d{
+ background: linear-gradient(90deg, #c7081f 0%, #ec5700 100%)
+}
+.btn-result-input{
+  background-color: white;
+  color:black;
+  border: 2px solid red;
+}
